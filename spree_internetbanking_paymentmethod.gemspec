@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["tuttinator"]
   s.email       = ["caleb.tutty@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = "Spree Internet Banking Payment Method"
+  s.description = "a payment method for Spree Ecommerce to use internet banking"
 
   s.rubyforge_project = "spree_internetbanking_paymentmethod"
 
